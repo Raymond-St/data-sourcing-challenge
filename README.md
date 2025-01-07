@@ -1,8 +1,9 @@
 # data-sourcing-challenge
 DU Bootcamp Module 6 "Data Sourcing" Challenge
 
-
 ## Overview
+- Student prepared dataset for a prediction system that looks at the diffential timing of Geomagnetic Storms (GSTs) that are caused by so-called Coronal Mass Ejections (CMEs).   Data obtained from the NASA API, GST data and its CME data, are merged and the time difference is computed.
+  
 ## Table of Contents
 - [Requirements]
 - [Installation]
